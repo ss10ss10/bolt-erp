@@ -10,6 +10,7 @@ import sys
 import time
 import uuid
 from pathlib import Path
+import os
 
 import streamlit as st
 from dotenv import load_dotenv
@@ -18,6 +19,9 @@ from dotenv import load_dotenv
 # Environment & path setup (must happen before local imports)
 # ---------------------------------------------------------------------------
 load_dotenv()
+
+if "OPENAI_API_KEY" in st.secrets:
+    os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
 
 ROOT = Path(__file__).parent
 if str(ROOT) not in sys.path:
