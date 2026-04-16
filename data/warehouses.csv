@@ -1,0 +1,151 @@
+warehouse_id,name,location_country,location_city,capacity_sqm,utilization_pct,warehouse_type,manager
+1,WH0,UAE,Dubai,4298,60.67,Central,Sara
+2,WH1,Germany,Berlin,2934,82.33,Regional,Ali
+3,WH2,Pakistan,Lahore,1376,76.44,Central,Sara
+4,WH3,Pakistan,Lahore,3634,81.07,Regional,Sara
+5,WH4,Pakistan,Lahore,2956,89.14,Regional,Emma
+6,WH5,USA,New York,1862,80.71,Regional,Ali
+7,WH6,USA,New York,1432,90.91,Central,Ali
+8,WH7,Pakistan,Lahore,1014,77.93,Central,Ali
+9,WH8,Germany,Berlin,3504,62.16,Regional,Ahmed
+10,WH9,Germany,Berlin,3572,61.43,Central,John
+11,WH10,Pakistan,Lahore,2793,67.66,Regional,Emma
+12,WH11,UAE,Dubai,2101,77.98,Regional,Emma
+13,WH12,Germany,Berlin,2314,77.85,Regional,David
+14,WH13,UAE,Dubai,2955,86.32,Central,John
+15,WH14,USA,New York,1605,77.27,Central,John
+16,WH15,Germany,Berlin,4234,94.45,Regional,Sara
+17,WH16,USA,New York,2864,89.78,Regional,Emma
+18,WH17,Pakistan,Lahore,3219,73.0,Central,Ahmed
+19,WH18,UK,London,3549,88.36,Regional,John
+20,WH19,USA,New York,3969,93.65,Central,Ahmed
+21,WH20,UAE,Dubai,1400,83.98,Regional,Ali
+22,WH21,Pakistan,Lahore,3169,72.03,Central,Sara
+23,WH22,UK,London,3527,64.07,Central,Ali
+24,WH23,Pakistan,Lahore,4084,87.46,Central,Ahmed
+25,WH24,UK,London,4545,67.61,Regional,David
+26,WH25,Pakistan,Lahore,2092,81.51,Regional,Ahmed
+27,WH26,UK,London,4506,80.86,Central,Ali
+28,WH27,UAE,Dubai,4454,76.61,Regional,Ali
+29,WH28,UK,London,4144,83.76,Regional,Emma
+30,WH29,Germany,Berlin,3095,91.88,Central,Sara
+31,WH30,UK,London,2497,62.35,Regional,John
+32,WH31,UK,London,2055,65.42,Regional,Ali
+33,WH32,UAE,Dubai,2933,70.93,Regional,Sara
+34,WH33,UK,London,3714,61.23,Regional,Emma
+35,WH34,Pakistan,Lahore,1539,68.11,Regional,David
+36,WH35,USA,New York,3872,81.87,Central,Ahmed
+37,WH36,Germany,Berlin,2019,68.49,Central,Sara
+38,WH37,UAE,Dubai,3895,82.51,Regional,Emma
+39,WH38,Pakistan,Lahore,4429,86.42,Regional,Sara
+40,WH39,UAE,Dubai,1248,70.24,Regional,David
+41,WH40,USA,New York,3450,69.5,Regional,John
+42,WH41,Pakistan,Lahore,2334,87.39,Central,Ahmed
+43,WH42,Pakistan,Lahore,4864,83.53,Central,Ahmed
+44,WH43,USA,New York,2860,69.27,Central,John
+45,WH44,UK,London,2664,84.68,Regional,Ali
+46,WH45,UAE,Dubai,4174,86.81,Regional,Emma
+47,WH46,UK,London,2540,88.11,Regional,Ahmed
+48,WH47,USA,New York,3755,61.39,Regional,Ali
+49,WH48,Germany,Berlin,2423,86.93,Central,Ali
+50,WH49,USA,New York,2451,70.78,Regional,Ahmed
+51,WH50,Germany,Berlin,4507,86.9,Regional,Ahmed
+52,WH51,UK,London,3469,68.14,Central,David
+53,WH52,UK,London,4918,94.74,Regional,David
+54,WH53,Germany,Berlin,3689,76.84,Central,Sara
+55,WH54,UK,London,1346,69.09,Central,Sara
+56,WH55,UK,London,2295,73.51,Central,Sara
+57,WH56,USA,New York,1884,74.03,Central,David
+58,WH57,Germany,Berlin,3954,82.3,Regional,John
+59,WH58,USA,New York,1288,88.82,Central,Ahmed
+60,WH59,UAE,Dubai,1040,81.03,Central,Emma
+61,WH60,UAE,Dubai,1787,60.54,Regional,Sara
+62,WH61,Pakistan,Lahore,4721,70.78,Regional,John
+63,WH62,Germany,Berlin,1119,90.61,Regional,Ali
+64,WH63,UK,London,2292,75.83,Regional,Ali
+65,WH64,UK,London,1790,61.05,Central,Ahmed
+66,WH65,Pakistan,Lahore,2803,94.23,Central,Ahmed
+67,WH66,UK,London,1708,89.32,Central,Sara
+68,WH67,UK,London,1065,90.49,Regional,Ahmed
+69,WH68,USA,New York,1798,73.94,Regional,John
+70,WH69,Germany,Berlin,4578,74.14,Regional,John
+71,WH70,USA,New York,4111,76.78,Regional,Sara
+72,WH71,Pakistan,Lahore,3154,60.9,Central,John
+73,WH72,UK,London,2305,73.89,Regional,David
+74,WH73,Pakistan,Lahore,4407,77.59,Central,David
+75,WH74,USA,New York,3274,74.38,Regional,Ahmed
+76,WH75,Germany,Berlin,1891,66.8,Regional,John
+77,WH76,Pakistan,Lahore,4819,79.93,Central,Ahmed
+78,WH77,Pakistan,Lahore,1941,63.08,Regional,Sara
+79,WH78,USA,New York,4640,69.9,Central,Ali
+80,WH79,USA,New York,2945,93.45,Central,Ahmed
+81,WH80,UAE,Dubai,4972,90.25,Regional,Sara
+82,WH81,USA,New York,2384,77.71,Regional,Ahmed
+83,WH82,Germany,Berlin,4346,90.03,Central,Emma
+84,WH83,Germany,Berlin,2457,73.52,Central,Emma
+85,WH84,Pakistan,Lahore,1740,84.04,Regional,Ali
+86,WH85,USA,New York,4585,80.52,Central,Emma
+87,WH86,USA,New York,2862,72.29,Central,John
+88,WH87,USA,New York,4451,80.63,Regional,Sara
+89,WH88,Pakistan,Lahore,2760,84.06,Regional,David
+90,WH89,UK,London,4071,73.43,Regional,Ali
+91,WH90,Germany,Berlin,1101,79.79,Regional,David
+92,WH91,Pakistan,Lahore,1896,70.28,Central,Sara
+93,WH92,UAE,Dubai,2633,82.29,Regional,David
+94,WH93,UAE,Dubai,3304,77.11,Central,David
+95,WH94,USA,New York,1076,69.76,Regional,John
+96,WH95,UK,London,3530,85.11,Regional,Ali
+97,WH96,UAE,Dubai,1972,89.67,Central,John
+98,WH97,USA,New York,2804,77.92,Regional,Sara
+99,WH98,UK,London,1333,73.83,Central,John
+100,WH99,USA,New York,3205,88.57,Central,Ali
+101,WH100,UAE,Dubai,4338,92.81,Regional,Sara
+102,WH101,USA,New York,2681,73.95,Regional,John
+103,WH102,UAE,Dubai,3313,92.39,Central,Emma
+104,WH103,UAE,Dubai,4675,75.07,Central,John
+105,WH104,UAE,Dubai,2169,93.53,Regional,Emma
+106,WH105,Pakistan,Lahore,2172,68.4,Central,John
+107,WH106,USA,New York,2078,84.82,Regional,Sara
+108,WH107,Germany,Berlin,3009,60.55,Regional,Ali
+109,WH108,UK,London,1462,73.45,Central,Ali
+110,WH109,USA,New York,3249,85.53,Regional,Ali
+111,WH110,USA,New York,1210,78.53,Central,John
+112,WH111,Pakistan,Lahore,1452,71.86,Regional,Emma
+113,WH112,UAE,Dubai,1338,68.02,Regional,Ahmed
+114,WH113,Germany,Berlin,2766,84.82,Regional,Ahmed
+115,WH114,Germany,Berlin,1617,90.0,Regional,John
+116,WH115,UAE,Dubai,3585,80.76,Regional,Ahmed
+117,WH116,UK,London,4129,85.18,Central,Ahmed
+118,WH117,UK,London,4877,84.66,Regional,Ahmed
+119,WH118,Pakistan,Lahore,4166,67.12,Central,David
+120,WH119,UK,London,2743,77.12,Central,Ahmed
+121,WH120,USA,New York,2507,68.71,Central,Emma
+122,WH121,UAE,Dubai,2745,80.88,Regional,Emma
+123,WH122,Germany,Berlin,3425,81.38,Central,Ahmed
+124,WH123,UAE,Dubai,1372,60.29,Central,Sara
+125,WH124,Germany,Berlin,3950,76.12,Regional,David
+126,WH125,Germany,Berlin,4559,63.69,Regional,Emma
+127,WH126,UK,London,3976,85.69,Central,David
+128,WH127,Pakistan,Lahore,3578,84.74,Central,John
+129,WH128,Germany,Berlin,3844,81.73,Regional,Ahmed
+130,WH129,USA,New York,4766,90.92,Regional,David
+131,WH130,USA,New York,4499,84.03,Central,Emma
+132,WH131,UAE,Dubai,4513,79.79,Central,Ali
+133,WH132,Pakistan,Lahore,4122,94.03,Central,Emma
+134,WH133,USA,New York,4802,92.9,Regional,Ahmed
+135,WH134,Pakistan,Lahore,4374,82.59,Regional,David
+136,WH135,Germany,Berlin,4035,83.78,Regional,Ahmed
+137,WH136,Pakistan,Lahore,4741,65.13,Central,Emma
+138,WH137,UAE,Dubai,3061,91.31,Central,Ahmed
+139,WH138,Pakistan,Lahore,2066,73.71,Central,David
+140,WH139,Germany,Berlin,4449,82.18,Regional,Emma
+141,WH140,Germany,Berlin,2046,93.79,Central,David
+142,WH141,USA,New York,4877,65.3,Central,Sara
+143,WH142,USA,New York,1327,63.79,Central,David
+144,WH143,USA,New York,1179,68.83,Central,John
+145,WH144,USA,New York,4451,87.93,Regional,Ahmed
+146,WH145,Pakistan,Lahore,1652,78.77,Regional,Sara
+147,WH146,Germany,Berlin,4386,77.94,Central,John
+148,WH147,Pakistan,Lahore,4812,82.01,Central,Ali
+149,WH148,Pakistan,Lahore,1407,75.77,Central,David
+150,WH149,USA,New York,3247,70.67,Regional,Emma

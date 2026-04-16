@@ -1,0 +1,151 @@
+supplier_id,name,country,city,contact_name,email,payment_terms,reliability_score,avg_lead_time_days,category
+1,Supplier0,UAE,Dubai,David,supp0@mail.com,Net30,0.79,9,Raw
+2,Supplier1,Germany,Berlin,Ali,supp1@mail.com,Net60,0.93,9,Finished
+3,Supplier2,USA,New York,John,supp2@mail.com,Net30,0.79,24,Raw
+4,Supplier3,Pakistan,Lahore,Ahmed,supp3@mail.com,Net30,0.76,20,Finished
+5,Supplier4,UK,London,David,supp4@mail.com,Net60,0.82,24,Finished
+6,Supplier5,USA,New York,Ali,supp5@mail.com,Net60,0.9,15,Raw
+7,Supplier6,UK,London,David,supp6@mail.com,Net30,0.81,13,Raw
+8,Supplier7,UAE,Dubai,Emma,supp7@mail.com,Net60,0.73,13,Raw
+9,Supplier8,UK,London,Emma,supp8@mail.com,Net60,0.74,19,Raw
+10,Supplier9,UK,London,John,supp9@mail.com,Net60,0.93,15,Finished
+11,Supplier10,Germany,Berlin,Ali,supp10@mail.com,Net30,0.77,20,Raw
+12,Supplier11,Germany,Berlin,Sara,supp11@mail.com,Net30,0.77,12,Raw
+13,Supplier12,UAE,Dubai,David,supp12@mail.com,Net60,0.91,11,Raw
+14,Supplier13,USA,New York,John,supp13@mail.com,Net60,0.89,18,Finished
+15,Supplier14,Pakistan,Lahore,Emma,supp14@mail.com,Net60,0.92,24,Raw
+16,Supplier15,UAE,Dubai,Ahmed,supp15@mail.com,Net60,0.95,14,Raw
+17,Supplier16,USA,New York,Sara,supp16@mail.com,Net30,0.92,22,Finished
+18,Supplier17,Germany,Berlin,Emma,supp17@mail.com,Net30,0.72,9,Raw
+19,Supplier18,UAE,Dubai,Emma,supp18@mail.com,Net30,0.81,25,Raw
+20,Supplier19,UAE,Dubai,David,supp19@mail.com,Net60,0.97,6,Finished
+21,Supplier20,Germany,Berlin,John,supp20@mail.com,Net60,0.83,18,Finished
+22,Supplier21,Pakistan,Lahore,Sara,supp21@mail.com,Net60,0.71,21,Finished
+23,Supplier22,UAE,Dubai,John,supp22@mail.com,Net30,0.78,15,Raw
+24,Supplier23,Germany,Berlin,David,supp23@mail.com,Net60,0.96,20,Raw
+25,Supplier24,UAE,Dubai,Ali,supp24@mail.com,Net30,0.97,15,Raw
+26,Supplier25,Pakistan,Lahore,Ali,supp25@mail.com,Net60,0.92,24,Finished
+27,Supplier26,UK,London,John,supp26@mail.com,Net30,0.87,21,Finished
+28,Supplier27,UK,London,Ali,supp27@mail.com,Net60,0.71,19,Raw
+29,Supplier28,UK,London,David,supp28@mail.com,Net30,0.94,18,Finished
+30,Supplier29,UK,London,Ali,supp29@mail.com,Net60,0.81,22,Raw
+31,Supplier30,UAE,Dubai,Emma,supp30@mail.com,Net30,0.98,15,Finished
+32,Supplier31,Pakistan,Lahore,Ahmed,supp31@mail.com,Net30,0.86,7,Finished
+33,Supplier32,UAE,Dubai,Sara,supp32@mail.com,Net60,0.94,25,Finished
+34,Supplier33,UAE,Dubai,John,supp33@mail.com,Net30,0.78,13,Raw
+35,Supplier34,UK,London,Emma,supp34@mail.com,Net60,0.79,14,Raw
+36,Supplier35,UAE,Dubai,John,supp35@mail.com,Net30,0.74,17,Raw
+37,Supplier36,Pakistan,Lahore,Ali,supp36@mail.com,Net60,0.8,13,Raw
+38,Supplier37,Pakistan,Lahore,Ali,supp37@mail.com,Net30,0.92,23,Finished
+39,Supplier38,Pakistan,Lahore,Sara,supp38@mail.com,Net60,0.89,5,Finished
+40,Supplier39,Pakistan,Lahore,Ali,supp39@mail.com,Net60,0.88,11,Raw
+41,Supplier40,UK,London,Ahmed,supp40@mail.com,Net60,0.85,15,Finished
+42,Supplier41,UK,London,Emma,supp41@mail.com,Net30,0.89,24,Finished
+43,Supplier42,UK,London,John,supp42@mail.com,Net60,0.84,12,Raw
+44,Supplier43,Pakistan,Lahore,Ali,supp43@mail.com,Net30,0.78,15,Raw
+45,Supplier44,UK,London,Ahmed,supp44@mail.com,Net30,0.81,13,Raw
+46,Supplier45,Germany,Berlin,Ali,supp45@mail.com,Net30,0.94,20,Finished
+47,Supplier46,Germany,Berlin,Emma,supp46@mail.com,Net60,0.87,14,Finished
+48,Supplier47,Germany,Berlin,Ahmed,supp47@mail.com,Net30,0.92,16,Raw
+49,Supplier48,UAE,Dubai,Ali,supp48@mail.com,Net60,0.72,20,Raw
+50,Supplier49,UAE,Dubai,Ali,supp49@mail.com,Net60,0.79,5,Finished
+51,Supplier50,UAE,Dubai,Emma,supp50@mail.com,Net60,0.96,20,Raw
+52,Supplier51,UAE,Dubai,John,supp51@mail.com,Net30,0.72,10,Finished
+53,Supplier52,Germany,Berlin,David,supp52@mail.com,Net60,0.73,17,Raw
+54,Supplier53,UAE,Dubai,Ali,supp53@mail.com,Net30,0.94,20,Finished
+55,Supplier54,UK,London,Sara,supp54@mail.com,Net30,0.89,15,Finished
+56,Supplier55,UK,London,David,supp55@mail.com,Net60,0.86,10,Raw
+57,Supplier56,Pakistan,Lahore,David,supp56@mail.com,Net30,0.91,8,Finished
+58,Supplier57,Pakistan,Lahore,Ali,supp57@mail.com,Net60,0.78,11,Raw
+59,Supplier58,Germany,Berlin,Sara,supp58@mail.com,Net30,0.9,23,Finished
+60,Supplier59,Germany,Berlin,Ali,supp59@mail.com,Net30,0.96,10,Finished
+61,Supplier60,UK,London,Ahmed,supp60@mail.com,Net60,0.75,7,Finished
+62,Supplier61,UK,London,Ali,supp61@mail.com,Net30,0.77,11,Raw
+63,Supplier62,Pakistan,Lahore,Ali,supp62@mail.com,Net60,0.98,16,Finished
+64,Supplier63,UK,London,Emma,supp63@mail.com,Net30,0.96,22,Raw
+65,Supplier64,UAE,Dubai,John,supp64@mail.com,Net30,0.82,22,Finished
+66,Supplier65,Germany,Berlin,Ali,supp65@mail.com,Net30,0.98,24,Finished
+67,Supplier66,UK,London,Ahmed,supp66@mail.com,Net60,0.8,19,Raw
+68,Supplier67,Pakistan,Lahore,Ahmed,supp67@mail.com,Net60,0.87,9,Raw
+69,Supplier68,Germany,Berlin,David,supp68@mail.com,Net30,0.88,18,Raw
+70,Supplier69,Germany,Berlin,David,supp69@mail.com,Net30,0.81,25,Raw
+71,Supplier70,Germany,Berlin,Ahmed,supp70@mail.com,Net30,0.82,19,Finished
+72,Supplier71,UAE,Dubai,David,supp71@mail.com,Net30,0.75,6,Finished
+73,Supplier72,UK,London,Ahmed,supp72@mail.com,Net60,0.96,16,Finished
+74,Supplier73,USA,New York,Emma,supp73@mail.com,Net30,0.85,5,Raw
+75,Supplier74,UK,London,Ali,supp74@mail.com,Net30,0.82,10,Finished
+76,Supplier75,UK,London,John,supp75@mail.com,Net60,0.89,21,Raw
+77,Supplier76,USA,New York,Emma,supp76@mail.com,Net60,0.76,21,Finished
+78,Supplier77,UK,London,Sara,supp77@mail.com,Net30,0.77,21,Finished
+79,Supplier78,Germany,Berlin,Ahmed,supp78@mail.com,Net30,0.91,11,Finished
+80,Supplier79,USA,New York,Ali,supp79@mail.com,Net60,0.72,21,Raw
+81,Supplier80,UAE,Dubai,Emma,supp80@mail.com,Net30,0.93,6,Raw
+82,Supplier81,Germany,Berlin,Emma,supp81@mail.com,Net30,0.95,19,Raw
+83,Supplier82,UAE,Dubai,Ali,supp82@mail.com,Net60,0.76,16,Finished
+84,Supplier83,USA,New York,Emma,supp83@mail.com,Net60,0.79,10,Finished
+85,Supplier84,UK,London,John,supp84@mail.com,Net30,0.97,6,Raw
+86,Supplier85,UK,London,John,supp85@mail.com,Net30,0.77,23,Finished
+87,Supplier86,USA,New York,Ali,supp86@mail.com,Net30,0.98,18,Finished
+88,Supplier87,Germany,Berlin,Ali,supp87@mail.com,Net60,0.73,18,Raw
+89,Supplier88,UK,London,Ahmed,supp88@mail.com,Net60,0.7,9,Finished
+90,Supplier89,UK,London,Ali,supp89@mail.com,Net30,0.86,22,Raw
+91,Supplier90,UK,London,Sara,supp90@mail.com,Net60,0.75,9,Raw
+92,Supplier91,UK,London,Ahmed,supp91@mail.com,Net60,0.98,16,Raw
+93,Supplier92,UK,London,Ali,supp92@mail.com,Net60,0.96,18,Finished
+94,Supplier93,Germany,Berlin,Emma,supp93@mail.com,Net60,0.91,19,Finished
+95,Supplier94,Germany,Berlin,Sara,supp94@mail.com,Net60,0.7,12,Raw
+96,Supplier95,UAE,Dubai,Ali,supp95@mail.com,Net30,0.87,19,Raw
+97,Supplier96,UK,London,David,supp96@mail.com,Net60,0.93,24,Finished
+98,Supplier97,UK,London,Sara,supp97@mail.com,Net30,0.75,15,Finished
+99,Supplier98,USA,New York,Ahmed,supp98@mail.com,Net30,0.76,22,Finished
+100,Supplier99,USA,New York,Ahmed,supp99@mail.com,Net60,0.96,10,Raw
+101,Supplier100,Pakistan,Lahore,John,supp100@mail.com,Net30,0.89,20,Raw
+102,Supplier101,UAE,Dubai,Sara,supp101@mail.com,Net30,0.72,25,Finished
+103,Supplier102,Germany,Berlin,John,supp102@mail.com,Net60,0.82,24,Raw
+104,Supplier103,UK,London,John,supp103@mail.com,Net60,0.8,8,Finished
+105,Supplier104,Germany,Berlin,Sara,supp104@mail.com,Net60,0.82,9,Raw
+106,Supplier105,Germany,Berlin,Sara,supp105@mail.com,Net60,0.72,8,Finished
+107,Supplier106,Pakistan,Lahore,Sara,supp106@mail.com,Net60,0.86,12,Finished
+108,Supplier107,UAE,Dubai,Sara,supp107@mail.com,Net60,0.93,16,Finished
+109,Supplier108,UAE,Dubai,Ahmed,supp108@mail.com,Net60,0.74,21,Raw
+110,Supplier109,UAE,Dubai,Ali,supp109@mail.com,Net60,0.85,10,Raw
+111,Supplier110,UK,London,Ali,supp110@mail.com,Net60,0.77,21,Finished
+112,Supplier111,Pakistan,Lahore,Sara,supp111@mail.com,Net30,0.7,21,Raw
+113,Supplier112,UK,London,Ali,supp112@mail.com,Net30,0.85,12,Finished
+114,Supplier113,Germany,Berlin,Ali,supp113@mail.com,Net60,0.95,18,Finished
+115,Supplier114,Pakistan,Lahore,Ahmed,supp114@mail.com,Net30,0.94,19,Raw
+116,Supplier115,Germany,Berlin,John,supp115@mail.com,Net60,0.79,17,Finished
+117,Supplier116,Germany,Berlin,Ahmed,supp116@mail.com,Net30,0.9,18,Raw
+118,Supplier117,UK,London,David,supp117@mail.com,Net30,0.77,7,Raw
+119,Supplier118,Germany,Berlin,John,supp118@mail.com,Net60,0.94,19,Raw
+120,Supplier119,UAE,Dubai,Ali,supp119@mail.com,Net30,0.72,14,Finished
+121,Supplier120,UK,London,Emma,supp120@mail.com,Net30,0.88,17,Finished
+122,Supplier121,UAE,Dubai,Sara,supp121@mail.com,Net60,0.7,13,Finished
+123,Supplier122,UAE,Dubai,Ali,supp122@mail.com,Net30,0.76,19,Finished
+124,Supplier123,UK,London,Ali,supp123@mail.com,Net30,0.97,17,Finished
+125,Supplier124,Germany,Berlin,Ali,supp124@mail.com,Net30,0.71,11,Finished
+126,Supplier125,Germany,Berlin,Emma,supp125@mail.com,Net30,0.71,19,Finished
+127,Supplier126,Pakistan,Lahore,Emma,supp126@mail.com,Net60,0.94,13,Raw
+128,Supplier127,UAE,Dubai,John,supp127@mail.com,Net60,0.78,19,Raw
+129,Supplier128,USA,New York,Emma,supp128@mail.com,Net60,0.85,12,Finished
+130,Supplier129,UK,London,Sara,supp129@mail.com,Net60,0.9,12,Finished
+131,Supplier130,USA,New York,Emma,supp130@mail.com,Net30,0.74,7,Raw
+132,Supplier131,UAE,Dubai,Sara,supp131@mail.com,Net60,0.87,13,Raw
+133,Supplier132,Germany,Berlin,Ali,supp132@mail.com,Net60,0.78,14,Finished
+134,Supplier133,Pakistan,Lahore,David,supp133@mail.com,Net30,0.73,10,Finished
+135,Supplier134,UAE,Dubai,Ali,supp134@mail.com,Net60,0.88,14,Raw
+136,Supplier135,Germany,Berlin,Ali,supp135@mail.com,Net60,0.78,25,Raw
+137,Supplier136,Germany,Berlin,Sara,supp136@mail.com,Net60,0.98,15,Raw
+138,Supplier137,USA,New York,Sara,supp137@mail.com,Net60,0.79,20,Raw
+139,Supplier138,Germany,Berlin,John,supp138@mail.com,Net30,0.85,24,Raw
+140,Supplier139,UAE,Dubai,Ali,supp139@mail.com,Net60,0.73,23,Raw
+141,Supplier140,UAE,Dubai,Emma,supp140@mail.com,Net30,0.8,6,Finished
+142,Supplier141,UAE,Dubai,Sara,supp141@mail.com,Net30,0.74,20,Finished
+143,Supplier142,UAE,Dubai,Emma,supp142@mail.com,Net60,0.85,14,Raw
+144,Supplier143,USA,New York,Sara,supp143@mail.com,Net60,0.93,11,Raw
+145,Supplier144,UAE,Dubai,Ali,supp144@mail.com,Net60,0.92,8,Raw
+146,Supplier145,Pakistan,Lahore,Sara,supp145@mail.com,Net30,0.79,7,Raw
+147,Supplier146,Germany,Berlin,Emma,supp146@mail.com,Net60,0.93,19,Finished
+148,Supplier147,Germany,Berlin,Sara,supp147@mail.com,Net30,0.7,14,Raw
+149,Supplier148,UK,London,Sara,supp148@mail.com,Net30,0.96,9,Raw
+150,Supplier149,UAE,Dubai,Emma,supp149@mail.com,Net60,0.85,25,Finished

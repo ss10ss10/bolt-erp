@@ -1,0 +1,151 @@
+customer_id,name,type,country,city,industry,email,credit_limit,payment_terms,account_manager,registration_date
+1,Customer0,B2B,UK,London,Retail,cust0@mail.com,74937,Net60,Emma,2021-10-29
+2,Customer1,B2B,UAE,Dubai,Logistics,cust1@mail.com,13715,Net60,Emma,2021-09-14
+3,Customer2,B2C,USA,New York,Manufacturing,cust2@mail.com,87483,Net30,John,2020-02-01
+4,Customer3,B2B,USA,New York,Logistics,cust3@mail.com,99978,Net30,Emma,2022-01-13
+5,Customer4,B2B,USA,New York,Logistics,cust4@mail.com,82464,Net30,John,2020-08-24
+6,Customer5,B2C,UK,London,Retail,cust5@mail.com,64549,Net30,Sara,2021-10-06
+7,Customer6,B2B,Germany,Berlin,Logistics,cust6@mail.com,76547,Net30,John,2020-10-17
+8,Customer7,B2C,Pakistan,Lahore,Retail,cust7@mail.com,72944,Net30,David,2022-03-27
+9,Customer8,B2C,UAE,Dubai,Tech,cust8@mail.com,81932,Net60,Ali,2021-03-25
+10,Customer9,B2B,Pakistan,Lahore,Logistics,cust9@mail.com,58565,Net60,David,2020-01-31
+11,Customer10,B2B,UAE,Dubai,Logistics,cust10@mail.com,94824,Net30,Sara,2021-05-29
+12,Customer11,B2B,UK,London,Manufacturing,cust11@mail.com,63012,Net60,Ahmed,2020-12-27
+13,Customer12,B2C,UAE,Dubai,Logistics,cust12@mail.com,77174,Net30,Ahmed,2022-03-07
+14,Customer13,B2B,Pakistan,Lahore,Retail,cust13@mail.com,73058,Net60,Ahmed,2021-07-21
+15,Customer14,B2C,UK,London,Tech,cust14@mail.com,64319,Net60,Ali,2021-07-05
+16,Customer15,B2C,Pakistan,Lahore,Retail,cust15@mail.com,40094,Net30,Ahmed,2021-08-21
+17,Customer16,B2B,UK,London,Retail,cust16@mail.com,98226,Net30,Ali,2022-06-07
+18,Customer17,B2C,USA,New York,Tech,cust17@mail.com,42710,Net60,Ali,2022-03-27
+19,Customer18,B2B,Pakistan,Lahore,Tech,cust18@mail.com,19111,Net30,Sara,2020-09-18
+20,Customer19,B2B,Pakistan,Lahore,Tech,cust19@mail.com,69598,Net60,Emma,2021-04-30
+21,Customer20,B2B,USA,New York,Logistics,cust20@mail.com,55002,Net60,Sara,2020-09-21
+22,Customer21,B2C,USA,New York,Logistics,cust21@mail.com,12728,Net30,Ali,2021-02-10
+23,Customer22,B2B,UK,London,Logistics,cust22@mail.com,76362,Net60,Ahmed,2022-05-02
+24,Customer23,B2C,UK,London,Retail,cust23@mail.com,61760,Net60,David,2021-10-08
+25,Customer24,B2B,UAE,Dubai,Manufacturing,cust24@mail.com,37804,Net30,John,2020-03-13
+26,Customer25,B2C,USA,New York,Manufacturing,cust25@mail.com,64548,Net60,Sara,2020-01-09
+27,Customer26,B2B,Pakistan,Lahore,Logistics,cust26@mail.com,32481,Net30,Emma,2020-07-24
+28,Customer27,B2B,Germany,Berlin,Logistics,cust27@mail.com,87517,Net30,Emma,2020-04-16
+29,Customer28,B2C,UAE,Dubai,Retail,cust28@mail.com,52643,Net60,John,2020-01-19
+30,Customer29,B2B,UK,London,Manufacturing,cust29@mail.com,54445,Net60,Sara,2020-09-29
+31,Customer30,B2C,USA,New York,Logistics,cust30@mail.com,79798,Net30,Ali,2022-01-12
+32,Customer31,B2B,USA,New York,Manufacturing,cust31@mail.com,31830,Net30,John,2022-02-16
+33,Customer32,B2C,Germany,Berlin,Tech,cust32@mail.com,54601,Net30,John,2020-08-28
+34,Customer33,B2C,Pakistan,Lahore,Retail,cust33@mail.com,52038,Net30,Emma,2020-03-15
+35,Customer34,B2B,UAE,Dubai,Tech,cust34@mail.com,25032,Net60,Ali,2021-08-07
+36,Customer35,B2B,Pakistan,Lahore,Tech,cust35@mail.com,57827,Net60,Ahmed,2021-07-01
+37,Customer36,B2C,USA,New York,Retail,cust36@mail.com,15996,Net60,Ali,2021-09-20
+38,Customer37,B2B,USA,New York,Retail,cust37@mail.com,15245,Net30,Sara,2022-03-15
+39,Customer38,B2C,Pakistan,Lahore,Retail,cust38@mail.com,69101,Net30,David,2020-09-04
+40,Customer39,B2B,UK,London,Logistics,cust39@mail.com,81162,Net60,Ahmed,2020-09-16
+41,Customer40,B2C,UAE,Dubai,Manufacturing,cust40@mail.com,95465,Net60,Ali,2020-01-28
+42,Customer41,B2C,USA,New York,Logistics,cust41@mail.com,61284,Net60,Emma,2020-03-05
+43,Customer42,B2C,USA,New York,Retail,cust42@mail.com,42776,Net30,Ahmed,2022-03-07
+44,Customer43,B2C,Pakistan,Lahore,Tech,cust43@mail.com,34015,Net30,John,2020-07-22
+45,Customer44,B2C,UK,London,Tech,cust44@mail.com,21719,Net60,Ali,2021-10-29
+46,Customer45,B2C,Pakistan,Lahore,Logistics,cust45@mail.com,50210,Net30,John,2020-07-10
+47,Customer46,B2C,Germany,Berlin,Tech,cust46@mail.com,23231,Net30,Sara,2020-08-13
+48,Customer47,B2B,USA,New York,Retail,cust47@mail.com,45135,Net30,David,2020-03-17
+49,Customer48,B2B,USA,New York,Tech,cust48@mail.com,74652,Net60,Sara,2020-04-13
+50,Customer49,B2C,Pakistan,Lahore,Manufacturing,cust49@mail.com,33536,Net30,Sara,2022-04-21
+51,Customer50,B2C,Germany,Berlin,Tech,cust50@mail.com,26554,Net30,Sara,2021-07-12
+52,Customer51,B2C,USA,New York,Manufacturing,cust51@mail.com,49180,Net60,Ahmed,2020-06-10
+53,Customer52,B2B,USA,New York,Retail,cust52@mail.com,99401,Net60,Emma,2021-07-16
+54,Customer53,B2C,Germany,Berlin,Retail,cust53@mail.com,61866,Net60,Sara,2020-09-21
+55,Customer54,B2B,UAE,Dubai,Retail,cust54@mail.com,18168,Net60,Ahmed,2020-05-21
+56,Customer55,B2B,Pakistan,Lahore,Tech,cust55@mail.com,46295,Net60,Ahmed,2021-02-14
+57,Customer56,B2B,UK,London,Logistics,cust56@mail.com,10980,Net30,Ahmed,2020-11-20
+58,Customer57,B2C,Pakistan,Lahore,Manufacturing,cust57@mail.com,51023,Net60,David,2021-05-05
+59,Customer58,B2C,UK,London,Tech,cust58@mail.com,94726,Net30,Ali,2022-08-01
+60,Customer59,B2C,USA,New York,Manufacturing,cust59@mail.com,50868,Net60,David,2020-11-02
+61,Customer60,B2C,Pakistan,Lahore,Logistics,cust60@mail.com,87932,Net30,Ali,2022-07-07
+62,Customer61,B2C,Pakistan,Lahore,Manufacturing,cust61@mail.com,42846,Net60,Sara,2022-08-22
+63,Customer62,B2B,Pakistan,Lahore,Logistics,cust62@mail.com,93489,Net60,Emma,2021-06-11
+64,Customer63,B2B,UK,London,Tech,cust63@mail.com,92372,Net30,John,2022-01-24
+65,Customer64,B2B,USA,New York,Logistics,cust64@mail.com,41587,Net60,Emma,2021-02-10
+66,Customer65,B2C,UK,London,Manufacturing,cust65@mail.com,91579,Net60,Sara,2020-05-02
+67,Customer66,B2C,UAE,Dubai,Tech,cust66@mail.com,46395,Net30,Emma,2022-02-06
+68,Customer67,B2B,Pakistan,Lahore,Logistics,cust67@mail.com,85901,Net30,Ali,2021-10-04
+69,Customer68,B2B,Pakistan,Lahore,Manufacturing,cust68@mail.com,32656,Net60,Sara,2021-07-09
+70,Customer69,B2C,UK,London,Tech,cust69@mail.com,99591,Net60,Sara,2021-07-12
+71,Customer70,B2C,Germany,Berlin,Retail,cust70@mail.com,37386,Net60,Sara,2020-10-17
+72,Customer71,B2B,USA,New York,Retail,cust71@mail.com,81471,Net60,David,2022-02-18
+73,Customer72,B2B,UK,London,Tech,cust72@mail.com,67300,Net60,Ahmed,2020-11-27
+74,Customer73,B2B,USA,New York,Logistics,cust73@mail.com,55903,Net60,Ahmed,2021-02-12
+75,Customer74,B2C,Germany,Berlin,Logistics,cust74@mail.com,60120,Net30,Ahmed,2020-01-04
+76,Customer75,B2B,Germany,Berlin,Logistics,cust75@mail.com,50021,Net30,Emma,2021-09-26
+77,Customer76,B2B,Pakistan,Lahore,Retail,cust76@mail.com,98938,Net60,Ahmed,2021-03-12
+78,Customer77,B2C,UAE,Dubai,Logistics,cust77@mail.com,42457,Net60,David,2020-01-22
+79,Customer78,B2B,UAE,Dubai,Tech,cust78@mail.com,33350,Net30,Ahmed,2020-01-11
+80,Customer79,B2C,Germany,Berlin,Tech,cust79@mail.com,29932,Net60,John,2021-05-11
+81,Customer80,B2C,UK,London,Tech,cust80@mail.com,76883,Net30,David,2021-08-27
+82,Customer81,B2B,UAE,Dubai,Retail,cust81@mail.com,96093,Net60,Ali,2020-06-17
+83,Customer82,B2B,Pakistan,Lahore,Logistics,cust82@mail.com,93358,Net60,Ahmed,2020-11-07
+84,Customer83,B2B,UK,London,Tech,cust83@mail.com,45267,Net30,Ali,2021-12-16
+85,Customer84,B2C,Pakistan,Lahore,Retail,cust84@mail.com,32092,Net60,David,2022-01-22
+86,Customer85,B2C,Pakistan,Lahore,Manufacturing,cust85@mail.com,61453,Net60,Sara,2021-05-10
+87,Customer86,B2C,Germany,Berlin,Tech,cust86@mail.com,89947,Net30,David,2020-02-01
+88,Customer87,B2C,Pakistan,Lahore,Logistics,cust87@mail.com,42561,Net60,Sara,2020-03-15
+89,Customer88,B2C,UK,London,Tech,cust88@mail.com,70213,Net30,Sara,2022-03-08
+90,Customer89,B2C,UK,London,Tech,cust89@mail.com,62527,Net30,Ali,2022-01-05
+91,Customer90,B2C,UK,London,Retail,cust90@mail.com,39834,Net60,John,2021-05-19
+92,Customer91,B2B,USA,New York,Retail,cust91@mail.com,88317,Net30,Sara,2021-11-30
+93,Customer92,B2C,USA,New York,Tech,cust92@mail.com,96890,Net60,Ali,2021-09-19
+94,Customer93,B2B,UK,London,Logistics,cust93@mail.com,40568,Net60,Emma,2021-01-21
+95,Customer94,B2B,UK,London,Tech,cust94@mail.com,70630,Net60,Sara,2021-04-07
+96,Customer95,B2C,Germany,Berlin,Retail,cust95@mail.com,38029,Net30,Ali,2020-01-16
+97,Customer96,B2C,USA,New York,Logistics,cust96@mail.com,86055,Net60,Sara,2021-02-13
+98,Customer97,B2B,UK,London,Retail,cust97@mail.com,60760,Net30,David,2021-07-09
+99,Customer98,B2C,USA,New York,Manufacturing,cust98@mail.com,20422,Net60,David,2022-05-10
+100,Customer99,B2B,Germany,Berlin,Retail,cust99@mail.com,78800,Net30,Ali,2022-08-13
+101,Customer100,B2B,Germany,Berlin,Retail,cust100@mail.com,34918,Net30,Emma,2021-10-14
+102,Customer101,B2C,UK,London,Logistics,cust101@mail.com,61079,Net60,David,2020-10-01
+103,Customer102,B2B,Germany,Berlin,Retail,cust102@mail.com,87060,Net30,John,2021-03-14
+104,Customer103,B2B,Pakistan,Lahore,Logistics,cust103@mail.com,80529,Net30,David,2022-06-20
+105,Customer104,B2C,Pakistan,Lahore,Tech,cust104@mail.com,90040,Net30,John,2020-06-30
+106,Customer105,B2B,USA,New York,Manufacturing,cust105@mail.com,66112,Net30,Ali,2021-10-14
+107,Customer106,B2C,USA,New York,Retail,cust106@mail.com,50984,Net30,Sara,2021-06-28
+108,Customer107,B2C,USA,New York,Logistics,cust107@mail.com,68469,Net30,David,2021-06-21
+109,Customer108,B2B,Germany,Berlin,Tech,cust108@mail.com,21244,Net60,Ali,2022-05-30
+110,Customer109,B2B,UAE,Dubai,Tech,cust109@mail.com,27040,Net60,Emma,2022-04-06
+111,Customer110,B2C,USA,New York,Logistics,cust110@mail.com,42163,Net30,John,2022-08-03
+112,Customer111,B2C,Germany,Berlin,Retail,cust111@mail.com,27003,Net60,Ahmed,2021-07-26
+113,Customer112,B2B,Pakistan,Lahore,Manufacturing,cust112@mail.com,36211,Net60,Emma,2021-06-17
+114,Customer113,B2B,Germany,Berlin,Tech,cust113@mail.com,26563,Net30,Ali,2020-11-03
+115,Customer114,B2C,Pakistan,Lahore,Tech,cust114@mail.com,51785,Net60,John,2020-11-29
+116,Customer115,B2B,Pakistan,Lahore,Manufacturing,cust115@mail.com,51564,Net60,John,2021-08-09
+117,Customer116,B2C,USA,New York,Logistics,cust116@mail.com,69525,Net60,David,2022-09-20
+118,Customer117,B2B,UAE,Dubai,Manufacturing,cust117@mail.com,16386,Net60,Ahmed,2022-05-23
+119,Customer118,B2B,Germany,Berlin,Tech,cust118@mail.com,94344,Net60,Emma,2020-11-10
+120,Customer119,B2C,UAE,Dubai,Retail,cust119@mail.com,29445,Net60,David,2020-08-14
+121,Customer120,B2B,Pakistan,Lahore,Manufacturing,cust120@mail.com,63884,Net30,Ali,2021-07-12
+122,Customer121,B2B,Germany,Berlin,Tech,cust121@mail.com,18752,Net30,Ali,2022-03-24
+123,Customer122,B2B,UK,London,Retail,cust122@mail.com,87379,Net60,Emma,2021-12-28
+124,Customer123,B2B,Germany,Berlin,Logistics,cust123@mail.com,40830,Net60,Emma,2021-11-22
+125,Customer124,B2B,Germany,Berlin,Retail,cust124@mail.com,43627,Net60,Sara,2020-01-09
+126,Customer125,B2C,Pakistan,Lahore,Retail,cust125@mail.com,62919,Net60,Ali,2020-12-26
+127,Customer126,B2B,UAE,Dubai,Tech,cust126@mail.com,94158,Net30,Ahmed,2020-05-02
+128,Customer127,B2C,Germany,Berlin,Logistics,cust127@mail.com,81046,Net60,Ahmed,2021-10-07
+129,Customer128,B2C,Pakistan,Lahore,Tech,cust128@mail.com,27163,Net60,Ahmed,2020-05-23
+130,Customer129,B2B,Pakistan,Lahore,Retail,cust129@mail.com,65597,Net30,John,2021-03-06
+131,Customer130,B2C,UAE,Dubai,Retail,cust130@mail.com,21800,Net30,Emma,2020-10-02
+132,Customer131,B2C,UAE,Dubai,Logistics,cust131@mail.com,54111,Net60,Emma,2022-04-02
+133,Customer132,B2C,USA,New York,Manufacturing,cust132@mail.com,64420,Net30,Ali,2020-06-25
+134,Customer133,B2C,Germany,Berlin,Tech,cust133@mail.com,64121,Net60,Ahmed,2020-10-21
+135,Customer134,B2C,UAE,Dubai,Tech,cust134@mail.com,73674,Net30,David,2022-04-29
+136,Customer135,B2C,UAE,Dubai,Retail,cust135@mail.com,18446,Net30,Sara,2022-09-16
+137,Customer136,B2B,UK,London,Retail,cust136@mail.com,43190,Net30,Emma,2022-03-04
+138,Customer137,B2C,USA,New York,Retail,cust137@mail.com,21686,Net60,Ahmed,2022-09-04
+139,Customer138,B2B,USA,New York,Tech,cust138@mail.com,16164,Net30,David,2021-07-20
+140,Customer139,B2B,UAE,Dubai,Tech,cust139@mail.com,33467,Net60,David,2022-05-28
+141,Customer140,B2B,USA,New York,Logistics,cust140@mail.com,26225,Net60,John,2021-11-29
+142,Customer141,B2C,Pakistan,Lahore,Retail,cust141@mail.com,89444,Net60,Ali,2020-06-01
+143,Customer142,B2B,UAE,Dubai,Tech,cust142@mail.com,64605,Net60,Emma,2021-10-10
+144,Customer143,B2B,Pakistan,Lahore,Logistics,cust143@mail.com,23481,Net30,David,2021-11-04
+145,Customer144,B2C,Germany,Berlin,Logistics,cust144@mail.com,49303,Net30,Sara,2021-06-04
+146,Customer145,B2C,Germany,Berlin,Logistics,cust145@mail.com,29442,Net30,John,2020-07-18
+147,Customer146,B2B,UAE,Dubai,Logistics,cust146@mail.com,45410,Net60,Emma,2021-12-13
+148,Customer147,B2C,Germany,Berlin,Manufacturing,cust147@mail.com,75373,Net60,Ahmed,2021-04-26
+149,Customer148,B2C,UK,London,Manufacturing,cust148@mail.com,86093,Net60,Ahmed,2020-06-02
+150,Customer149,B2C,USA,New York,Manufacturing,cust149@mail.com,51335,Net60,Emma,2020-12-03
